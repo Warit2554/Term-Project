@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Warit Chanaphai",
+      "email": "waridza@gmail.com",
+      "password": "T!t721510",
+      "imageUrl": "assets/images/8B4ED884-D886-43AE-B426-4C3DB90F11F3_4_5005_c.jpeg",
+      "money": 1069,
+      "follower": 20,
+      "following": 0,
+      "favoriteProducts": [],
+      "cartItems": []
+    },
+    {
+      "id": "2",
+      "fullname": "Archira",
+      "email": "warit@gmail.com",
+      "password": "721510",
+      "imageUrl": "assets/images/24149791-1427-4608-AA6C-38043B54E9FE_1_105_c.jpeg",
+      "money": 1869433,
+      "follower": 220,
+      "following": 30,
+      "favoriteProducts": [
+        "ae5368db-34a2-4c72-a156-b87354b5d31e9e",
+        "ae5368db-34a2-4c72-a156-b87354b5de9e2",
+        "ae5368db-34a322-4c72-a156-b87354b5de9e",
+        "32e5470c-f199-4bb2-a7a9-a9b3c502c788"
+      ],
+      "cartItems": [
+        "ae5123368db-34a2-4c72-a156-b87354b5de9e",
+        "ae5368db-34a2-4c72-a156-b87354b5d31e9e"
+      ]
+    },
+    {
+      "id": "urmm123",
+      "fullname": "Test Test Test",
+      "email": "test",
+      "password": "test",
+      "imageUrl": "assets/images/8B4ED884-D886-43AE-B426-4C3DB90F11F3_4_5005_c.jpeg",
+      "money": 70,
+      "follower": 20,
+      "following": 0,
+      "favoriteProducts": [
+        "ae5123368db-34a2-4c72-a156-b87354b5de9e",
+        "ae5368db-34a2-4c72-a156-b87354b5de9e2",
+        "ae5368db-34a2-4c72-a156-b87354b5d31e9e"
+      ],
+      "cartItems": [
+        "ae5368db-34a322-4c72-a156-b87354b5de9e"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "ae5123368db-34a2-4c72-a156-b87354b5de9e",
+      "name": "Yuedpao Signature Oversize Summer",
+      "price": 2900,
+      "detail": "Thick, well-shaped fabric, hard to wrinkle and easy to iron. Plain oversized T-shirt in Black.",
+      "imageUrl": "https://i.imgur.com/lA5QWZK.jpeg"
+    },
+    {
+      "id": "ae5368db-34a2-4c72-a156-b87354b5de9e2",
+      "name": "Keyboard USB",
+      "detail": "Knobs and rainbow backlit keys",
+      "price": 480,
+      "imageUrl": "https://i.imgur.com/vNqxiOC.jpeg"
+    },
+    {
+      "id": "ae5368db-34a2-4c72-a156-b87354b5d31e9e",
+      "name": "Bow Short Sleeve Crop Top",
+      "detail": "Cotton fabric, soft and comfortable #ShortSleeve",
+      "price": 132,
+      "imageUrl": "https://i.imgur.com/0ydF0tW.jpeg"
+    },
+    {
+      "id": "ae5368db-34a322-4c72-a156-b87354b5de9e",
+      "name": "Wired Keyboard and Mouse Set",
+      "detail": "Minimalist design",
+      "price": 255,
+      "imageUrl": "https://i.imgur.com/kWjhACb.jpeg"
+    },
+    {
+      "id": "20e06db4-c658-4cd2-96c0-17491d19907c",
+      "name": "Long pants with an elephant print",
+      "detail": "Before stretching 23 inches, can stretch up to 34 inches. Hip size up to 40 inches. Length: 36-37 inches",
+      "price": 59,
+      "imageUrl": "https://i.imgur.com/sUhskxa.jpeg"
+    },
+    {
+      "id": "fad8625a-0b84-45bf-9336-565ed7084541",
+      "name": "Naturista Facial Cleanser",
+      "detail": "Naturista White Tea Facial Cleanser 300ml. A gentle white tea cleansing gel, free from fragrances, SLS, and all types of sulfates. With extracts from three types of tea",
+      "price": 259,
+      "imageUrl": "https://i.imgur.com/ZEYlHMY.jpeg"
+    },
+    {
+      "id": "d28e956e-8307-47c8-b766-330f537ea1ed",
+      "name": "Bostanten Handbag and Shoulder Bag",
+      "detail": "Colors: Off-white with brown, off-white paired with pink, off-white with green.",
+      "price": 400,
+      "imageUrl": "https://i.imgur.com/r3ocOcJ.png"
+    },
+    {
+      "id": "015711cf-7e1b-4a4d-805d-9831d2dffd59",
+      "name": "MAYBELLINE SUPERSTAY LIPSTICK",
+      "price": 300,
+      "detail": "Maybelline Superstay Vinyl Ink the ultimate shine! A vinyl-textured liquid lipstick that provides a shiny finish for plump, moist lips.",
+      "imageUrl": "https://i.imgur.com/peRk8tM.jpeg"
+    },
+    {
+      "id": "ec112a08-503e-4ec2-9216-2c48879843d1",
+      "name": "Lovito Women Sweater",
+      "price": 120,
+      "detail": "Lovito women sweater with a zip closure, solid color, casual style LNA35090 (apricot/blue).",
+      "imageUrl": "https://i.imgur.com/c0t7ryK.jpeg"
+    },
+    {
+      "id": "4329ac5f-1c1b-43f1-8d42-8a33fa94073c",
+      "name": "Lavito Tank Top",
+      "detail": "Design pattern: Striped. Style: Casual. Plus size: No. Material: Polyester. Composition: 95% polyester + 5% spandex. Fit type: Skinny.",
+      "price": 300,
+      "imageUrl": "https://i.imgur.com/RksCCBa.jpeg"
+    },
+    {
+      "id": "76c1defc-ddbc-45e8-a432-17e105bb3ee0",
+      "name": "Sweater",
+      "detail": "Test",
+      "price": 120,
+      "imageUrl": "https://i.imgur.com/4XgKbas.jpeg"
+    },
+    {
+      "id": "32e5470c-f199-4bb2-a7a9-a9b3c502c788",
+      "name": "test",
+      "detail": "test",
+      "price": 200,
+      "imageUrl": "https://i.imgur.com/1OAtvnw.jpeg"
+    },
+    {
+      "id": "11c9dc1d-aeb7-4718-a7c0-37f30fe0c901",
+      "name": "photo upload test",
+      "detail": "test",
+      "price": 299,
+      "imageUrl": "https://i.imgur.com/VQMdaGf.jpeg"
+    },
+    {
+      "id": "12f99018-6412-4e2e-ab23-bd5015ae255d",
+      "name": "waritTest01",
+      "detail": "waritTest",
+      "price": 199,
+      "imageUrl": "https://i.imgur.com/0oqVjND.jpeg"
+    }
+  ]
+}
