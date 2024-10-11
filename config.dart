@@ -5,7 +5,7 @@ class Configure {
   //Localhost For browser Emu
   //add photo did't work with browser idon't know why ????
   
-  static const server = "10.0.2.2:3000"; 
+  static const server = "localhost:3000"; 
 
   static Users login = Users();
   
